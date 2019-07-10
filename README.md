@@ -1,1 +1,3 @@
-# random_game
+# Random Game
+
+Unreal Engine Split userg group demo project.
