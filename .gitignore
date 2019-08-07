@@ -1,3 +1,7 @@
+# RANDOM GAME ignores
+/Content/MultistoryDungeons
+
+
 # Visual Studio 2015 user specific files
 .vs/
 
