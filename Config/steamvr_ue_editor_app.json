@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.top-down-bp-game-template-11590370.ue4editor.exe",
+			"app_key": "application.generated.ue.top-down-bp-game-template-14830424.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "D:/UE/RandomGame/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "Top Down BP Game Template-11590370 [UE Editor]"
+					"name": "Top Down BP Game Template-14830424 [UE Editor]"
 				}
 			}
 		}

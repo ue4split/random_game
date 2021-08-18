@@ -8,24 +8,13 @@
 		{
 			"sources": [
 				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
+					"mode": "scalar_constant",
+					"path": "/user/hand/right/input/joystick",
 					"inputs":
 					{
-						"click":
+						"value":
 						{
-							"output": "/actions/main/in/SetDestination"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/left/input/grip",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/ResetVR"
+							"output": "/actions/main/in/TurnRate axis"
 						}
 					}
 				}
@@ -63,5 +52,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "Top Down BP Game Template-14830424"
 }
