@@ -1,6 +1,6 @@
 {
-	"name": "Default bindings for Vive Tracker (Camera)",
-	"controller_type": "vive_tracker_camera",
+	"name": "Default bindings for Vive Tracker (Waist)",
+	"controller_type": "vive_tracker_waist",
 	"last_edited_by": "UnrealEngine",
 	"bindings":
 	{
@@ -8,8 +8,8 @@
 		{
 			"poses": [
 				{
-					"output": "/actions/main/in/tracker_camera",
-					"path": "/user/camera/pose/raw",
+					"output": "/actions/main/in/tracker_waist",
+					"path": "/user/waist/pose/raw",
 					"requirement": "optional"
 				}
 			]
